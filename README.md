@@ -3,7 +3,6 @@ React Todo app - The classic todo app with a few twists! This app includes a dar
 
 ## Built with
 - React
-- Firebase
 - Semantic HTML5 markup
 - CSS Flexbox
 - Mobile-first workflow
